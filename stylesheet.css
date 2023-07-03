@@ -1,0 +1,92 @@
+html{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.heading {
+    position: relative;
+    left: 15%;
+    top: 100%;
+    text-decoration: solid;
+    color: green;
+}
+.welcome img{
+    max-width: 100%;
+    position: relative;
+    left: 0%;
+    top: 100%;
+    
+}
+.banner {
+    position: absolute;
+    left: 0%;
+    top: 200px;
+    font-size: 50px;
+    color: blue;
+}
+
+.banner span{
+    font-size: 1.3em;
+}
+
+.main-nav {
+    position: relative;
+    
+    background-color: lightyellow;
+    padding: 10px;
+    
+    
+    
+}
+
+nav li{
+    width: 25%;
+    display: inline-block;
+
+}
+
+nav ul{
+    
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+
+nav a{
+    text-decoration: none;
+    color: blue;
+
+}
+
+ .Rs img{
+    max-width: 40%;  
+    height: auto;  
+
+}
+.Transportation img{
+    max-width: 40%;  
+    height: auto;  
+
+}
+.water img{
+    max-width: 40%;  
+    height: auto;  
+
+}
+.products img{
+    max-width: 40%;  
+    height: auto;  
+
+}
+
+h3{
+    color: firebrick;
+    text-decoration: underline;
+}
+
+.banner {
+    background-color: rgb(109, 185, 165);
+    padding: 10px;
+    margin: auto;
+}
